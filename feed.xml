@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qullamaggie 中文配音</title>
+    <link>https://bradstan.github.io/qullamaggie-zh-podcast/</link>
+    <atom:link href="https://bradstan.github.io/qullamaggie-zh-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <copyright>For personal study and listening.</copyright>
+    <lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
+    <description>英文交易直播的中文配音 RSS。</description>
+    <itunes:author>Codex 中文配音</itunes:author>
+    <itunes:summary>英文交易直播的中文配音 RSS。</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://bradstan.github.io/qullamaggie-zh-podcast/assets/cover.png" />
+    <image>
+      <url>https://bradstan.github.io/qullamaggie-zh-podcast/assets/cover.png</url>
+      <title>Qullamaggie 中文配音</title>
+      <link>https://bradstan.github.io/qullamaggie-zh-podcast/</link>
+    </image>
+    <itunes:category text="Business">
+      <itunes:category text="Investing" />
+    </itunes:category>
+    <item>
+      <title>Market mechanics, setups and more｜中文配音版</title>
+      <description>Qullamaggie 交易直播中文配音版。本集讨论市场结构、动量行情、财报突破、流动性、做空和 AI 等话题。</description>
+      <content:encoded><![CDATA[<p>Qullamaggie 交易直播中文配音版。本集讨论市场结构、动量行情、财报突破、流动性、做空和 AI 等话题。</p><p>双角色中文配音：主讲人男声，聊天室/提问者女声。</p>]]></content:encoded>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0800</pubDate>
+      <guid isPermaLink="false">vdqsdgzblqe-market-mechanics-zh-20260704</guid>
+      <itunes:duration>00:26:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://bradstan.github.io/qullamaggie-zh-podcast/audio/vdqsdgzblqe-market-mechanics-zh.mp3" length="38481453" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
