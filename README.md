@@ -1,4 +1,4 @@
-# Qullamaggie 中文配音
+# badstan的个人播客
 
 RSS: https://bradstan.github.io/qullamaggie-zh-podcast/feed.xml
 
